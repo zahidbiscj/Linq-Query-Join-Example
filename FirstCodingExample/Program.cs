@@ -129,6 +129,19 @@ class GFG
 
         }
     }
+    // Student Id Marks Average 
+    
+    var bestStudent = i.GroupBy(i=>i.Id)
+    .Select( g=> new Student 
+    { 
+        Id = g.Key, 
+        Name = g.First().Name, 
+        Marks = g.Average(i=>i.Marks)) 
+    })
+    .OrderByDescending(s => s.Marks)
+    .FirstOrDefault();
+    
+    
 }*/
 
 
