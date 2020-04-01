@@ -1,0 +1,10 @@
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\bin\Debug\netcoreapp2.2\FirstCodingExample.deps.json
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\bin\Debug\netcoreapp2.2\FirstCodingExample.runtimeconfig.json
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\bin\Debug\netcoreapp2.2\FirstCodingExample.runtimeconfig.dev.json
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\bin\Debug\netcoreapp2.2\FirstCodingExample.dll
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\bin\Debug\netcoreapp2.2\FirstCodingExample.pdb
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\obj\Debug\netcoreapp2.2\FirstCodingExample.csprojAssemblyReference.cache
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\obj\Debug\netcoreapp2.2\FirstCodingExample.AssemblyInfoInputs.cache
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\obj\Debug\netcoreapp2.2\FirstCodingExample.AssemblyInfo.cs
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\obj\Debug\netcoreapp2.2\FirstCodingExample.dll
+D:\Visual Studio Project\FirstCodingExample\FirstCodingExample\obj\Debug\netcoreapp2.2\FirstCodingExample.pdb
